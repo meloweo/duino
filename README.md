@@ -48,4 +48,4 @@ Premier projet Arduino : lecture de boutons, affichage LCD, logique de jeu et la
 
 ## Auteur
 
-*Meloweo* –
+*Meloweo* – https://github.com/meloweo?tab=repositories
