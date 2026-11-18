@@ -26,16 +26,7 @@ Si le jouer souhaite rejouer, il appuie deux fois sur le bouton.
 2. Ajouter la carte Arduino UNO R4 WiFi via le gestionnaire de cartes
 3. Installer la bibliothèque `LiquidCrystal` si besoin
 4. Ouvrir le fichier `.ino` du projet
-5. Brancher la carte, la sélectionner, puis téléverser
-
-## État d'avancement
-
-- [x] Affichage sur l'écran LCD 16x2
-- [x] Gestion des boutons
-- [ ] Génération des obstacles
-- [ ] Détection des collisions
-- [ ] Score
-- [ ] Écran de fin / rejouer
+5. Brancher la carte, la sélectionner, puis téléverser. 
 
 ## Idées pour la suite
 
