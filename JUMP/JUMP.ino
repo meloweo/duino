@@ -13,7 +13,7 @@ unsigned long start = 0;
 int speed = 300;
 int count = 0;
 
-byte walk[8] = { 0x0E, 0x0E, 0x04, 0x1F, 0x15, 0x0E, 0x0A, 0x0A };
+byte ground[8] = { 0x0E, 0x0E, 0x04, 0x1F, 0x15, 0x0E, 0x0A, 0x0A };
 
 byte jump[8] = { 0x0E, 0x0E, 0x15, 0x1F, 0x04, 0x0E, 0x0A, 0x00 };
 
@@ -32,7 +32,7 @@ void  setup() {
   pinMode(BOUTON, INPUT_PULLUP); 
   pinMode(BUZZER, OUTPUT);
   digitalWrite(BUZZER, HIGH);
-  lcd.createChar(0, walk);
+  lcd.createChar(0, ground);
   lcd.createChar(1, jump);
   lcd.createChar(2, cactus);
   /*lcd.createChar(3, rock);*/
