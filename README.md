@@ -30,12 +30,12 @@ Si le jouer souhaite rejouer, il appuie deux fois sur le bouton.
 
 ## Idées pour la suite
 
-- Augmenter la difficulté au fil du temps
+- Augmenter la difficulté au fil du temps tout les deux tours.
 - Afficher le jeu sur un écran plus grand (par exemple un téléphone), en gardant les boutons physiques
 
 ## Ce que j'apprends avec ce projet
 
-Premier projet Arduino : lecture de boutons, affichage LCD, logique de jeu et language C++. 
+Premier projet Arduino : electronique, logique de jeu et language C++. 
 
 ## Auteur
 
